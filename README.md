@@ -52,13 +52,14 @@ Apasionado por el desarrollo de aplicaciones web y móviles, la arquitectura de 
 
 ### 🛠️ En lo que me enfoco
 
-* 🔭 Desarrollo de aplicaciones web Full-Stack con arquitecturas modulares, REST APIs y despliegues optimizados en Netlify, Render, Vercel o VPS dedicados.
-* 💾 Modelado y gestión de bases de datos relacionales y NoSQL, configurando entornos locales de desarrollo e infraestructura de producción en la nube.
-* ⚙️ Automatización de backups de bases de datos, flujos de desarrollo asistido por IA (CLI) y optimización de entornos de servidor Linux.
+* Desarrollo de aplicaciones web Full-Stack con arquitecturas modulares, REST APIs y despliegues optimizados en Netlify, Render, Vercel o VPS dedicados.
+* Modelado y gestión de bases de datos relacionales y NoSQL, configurando entornos locales de desarrollo e infraestructura de producción en la nube.
+* Automatización de backups de bases de datos, flujos de desarrollo asistido por IA (CLI) y optimización de entornos de servidor Linux.
 
 ---
 
 ### 📬 Contacto
 
 * **Email**: [manuelcaporaso20@gmail.com](mailto:manuelcaporaso20@gmail.com)
+* **Sitio Web**: [manuelcaporaso.online](https://manuelcaporaso.online/)
 * **Ubicación**: Cipolletti, Río Negro, Argentina
