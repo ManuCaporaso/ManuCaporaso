@@ -29,6 +29,12 @@ Apasionado por el desarrollo de aplicaciones web y móviles, la arquitectura de 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### **Inteligencia Artificial & Terminal (CLI)**
+![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-010B14?style=for-the-badge&logo=warp&logoColor=00DC82)
+![OpenAI / LLMs](https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white)
+
 #### **Deploy, Cloud & Infraestructura**
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -49,6 +55,13 @@ Apasionado por el desarrollo de aplicaciones web y móviles, la arquitectura de 
 * **Info-tracker**: Sistema web/móvil para gestión de lotes agrícolas y digitalización de registros primarios mediante OCR y almacenamiento en la nube.
 * **Tranco**: SaaS multi-tenant enfocado en el sector inmobiliario con seguimiento de SLAs, personalización de marca por cliente y valuaciones.
 * **Le Render**: Portafolio web e institucional para servicio de visualización 3D y arquitectura desarrollado con React y Tailwind CSS.
+
+---
+
+### 🤖 Inteligencia Artificial & Flujo de Trabajo
+
+* **IA por Terminal / CLI**: Uso de terminales modernas como **Warp** integrando CLIs de IA, agentes autónomos y herramientas de consola para acelerar el refactorizado, la depuración y la generación de código.
+* **Prompt Engineering & Automatización**: Optimización de prompts para diseño de arquitectura, generación de esquemas de bases de datos y desarrollo asistido por modelos de lenguaje (LLMs).
 
 ---
 
