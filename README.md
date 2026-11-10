@@ -60,5 +60,5 @@ Apasionado por el desarrollo de aplicaciones web y móviles, la arquitectura de 
 
 ### 📬 Contacto
 
-* 📧 **Email**: [manulpda@gmail.com](mailto:manuelcaporaso20@gmail.com)
-* 📍 **Ubicación**: Cipolletti, Río Negro, Argentina
+* **Email**: [manuelcaporaso20@gmail.com](mailto:manuelcaporaso20@gmail.com)
+* **Ubicación**: Cipolletti, Río Negro, Argentina
