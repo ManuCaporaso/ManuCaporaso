@@ -43,10 +43,12 @@ Apasionado por el desarrollo de aplicaciones web y móviles, la arquitectura de 
 
 ### 🚀 Proyectos Destacados
 
-* **Perilo SaaS / PeriloStack**: Sistema multi-tenant self-hosted de gestión institucional y seguimiento de órdenes de trabajo desarrollado con NestJS, Prisma ORM, MariaDB, Next.js y Tailwind CSS.
-* **Info-tracker**: Plataforma web/móvil para la gestión de lotes agrícolas y digitalización de registros de producción primaria con OCR y almacenamiento en la nube.
-* **Tranco**: SaaS multi-tenant enfocado en el sector inmobiliario con gestión de SLAs, marca personalizada por cliente y herramientas de valuación.
-* **Le Render**: Portafolio web institucional y de visualización 3D desarrollado para arquitectura con React y Tailwind CSS.
+* **Tienda Online Full-Stack (E-commerce)**: Plataforma de comercio electrónico con catálogo dinámico, carrito de compras, integración de pasarela de pagos con Mercado Pago (webhooks/checkout), panel administrativo de stock y notificaciones.
+* **Plataforma Web para Sindicato / Gestión Institucional**: Sistema modular enfocado en la gestión integral de afiliados, registro de movimientos, tramitación de solicitudes, actas/comunicaciones e interfaz pública de noticias.
+* **Perilo SaaS / PeriloStack**: Sistema multi-tenant self-hosted para gestión de organizaciones y seguimiento de órdenes de trabajo desarrollado con NestJS, Prisma ORM, MariaDB, Next.js y Tailwind CSS.
+* **Info-tracker**: Sistema web/móvil para gestión de lotes agrícolas y digitalización de registros primarios mediante OCR y almacenamiento en la nube.
+* **Tranco**: SaaS multi-tenant enfocado en el sector inmobiliario con seguimiento de SLAs, personalización de marca por cliente y valuaciones.
+* **Le Render**: Portafolio web e institucional para servicio de visualización 3D y arquitectura desarrollado con React y Tailwind CSS.
 
 ---
 
